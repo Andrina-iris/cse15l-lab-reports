@@ -11,9 +11,9 @@ also have their ___combination___
 ---
 
 #### list:
-1) three
-2) two
-3) one
+1. three
+2. two
+3. one
 
 ---
 
