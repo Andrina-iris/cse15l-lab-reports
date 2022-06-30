@@ -23,3 +23,7 @@ also have their ___combination___
 ---
 
 * ![Image](https://lionalert.org/wp-content/uploads/2020/01/Lion-Cubs.jpg)
+
+---
+
+* ![Image](https://offloadmedia.feverup.com/secretchicago.com/wp-content/uploads/2022/05/31113554/cub-1200.jpg)
