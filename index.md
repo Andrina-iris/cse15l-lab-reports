@@ -10,6 +10,7 @@ also their ___combination___
 
 ---
 
-`my favorite`
+## `my favorite`
 * ![Image](https://a-z-animals.com/media/2021/10/shutterstock_91045121-1024x535.jpg)
+
 * ![Image](https://lionalert.org/wp-content/uploads/2020/01/Lion-Cubs.jpg)
